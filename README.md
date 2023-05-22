@@ -2,6 +2,7 @@
 
 ### AI
 [![MachineLearning](https://img.shields.io/badge/MachineLearning-black?style=for-the-badge&logo=MachineLearning)](https://github.com/DH-an)
+[![DeepLearning](https://img.shields.io/badge/DeepLearning-black?style=for-the-badge&logo=DeepLearning)](https://github.com/DH-an)
 [![ComputerVision](https://img.shields.io/badge/ComputerVision-black?style=for-the-badge&logo=ComputerVision)](https://github.com/DH-an)
 [![NLP](https://img.shields.io/badge/NLP-black?style=for-the-badge&logo=NLP)](https://github.com/DH-an)
 [![TextMining](https://img.shields.io/badge/TextMining-black?style=for-the-badge&logo=TextMining)](https://github.com/DH-an)
