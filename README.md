@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ### AI
-[![MachineLearning](https://img.shields.io/badge/MachineLearning-black?style=for-the-badge&logo=MachineLearning)](https://github.com/DH-an)
-[![DeepLearning](https://img.shields.io/badge/DeepLearning-black?style=for-the-badge&logo=DeepLearning)](https://github.com/DH-an)
-[![ComputerVision](https://img.shields.io/badge/ComputerVision-black?style=for-the-badge&logo=ComputerVision)](https://github.com/DH-an)
+[![Machine_Learning](https://img.shields.io/badge/Machine_Learning-black?style=for-the-badge&logo=Machine_Learning)](https://github.com/DH-an)
+[![Deep_Learning](https://img.shields.io/badge/Deep_Learning-black?style=for-the-badge&logo=Deep_Learning)](https://github.com/DH-an)
+[![Computer_Vision](https://img.shields.io/badge/Computer_Vision-black?style=for-the-badge&logo=Computer_Vision)](https://github.com/DH-an)
 [![NLP](https://img.shields.io/badge/NLP-black?style=for-the-badge&logo=NLP)](https://github.com/DH-an)
-[![TextMining](https://img.shields.io/badge/TextMining-black?style=for-the-badge&logo=TextMining)](https://github.com/DH-an)
+[![Text_Mining](https://img.shields.io/badge/Text_Mining-black?style=for-the-badge&logo=Text_Mining)](https://github.com/DH-an)
 
 ### Skills
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/DH-an)
